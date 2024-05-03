@@ -22,10 +22,10 @@ We present HDR-CNF, a novel method for reconstructing high dynamic range (HDR) i
 ![result](https://github.com/shan496/HDR-CNF/blob/main/image/result_2.png)
 
 ## Acknowledgement
-Our work is inspired the following works and uses parts of their official implementations:
+Our work builds upon the following research and incorporates elements from their officially released implementations:
 
 * [SRFlow](https://github.com/andreas128/SRFlow)
 * [SingleHDR](https://alex04072000.github.io/SingleHDR/)
 
-We thank the respective authors for open sourcing their methods.
+We are grateful to the respective authors for making their methods publicly available.
 

@@ -19,7 +19,7 @@ We present HDR-CNF, a novel method for reconstructing high dynamic range (HDR) i
 
 
 ## Results
-![results]()
+![results](https://github.com/shan496/HDR-CNF/blob/main/image/result_1.jpg)
 
 
 ## Acknowledgement
